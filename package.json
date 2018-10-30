@@ -1,5 +1,5 @@
 {
-  "name": "dns-over-https",
+  "name": "@leeroybrun/dns-over-https",
   "version": "0.1.0",
   "description": "Resolve DNS records via the Google Public DNS HTTPS API",
   "keywords": [
